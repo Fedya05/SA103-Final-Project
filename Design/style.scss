@@ -752,6 +752,7 @@ body {
         .row {
           .main-carousel {
             .carousel-cell {
+              cursor: move;
               margin: 0px 2%;
               width: 30%;
               @media (max-width: 768px) {

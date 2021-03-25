@@ -939,6 +939,7 @@ body main .our-services h3 {
 }
 
 body main .our-services .container .row .main-carousel .carousel-cell {
+  cursor: move;
   margin: 0px 2%;
   width: 30%;
 }
