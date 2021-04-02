@@ -3,7 +3,7 @@
 let nav = document.querySelector("nav");
 window.addEventListener("scroll", () => {
   if (window.innerWidth > 768) {
-    nav.classList.toggle("fixed-top", window.scrollY > 180);
+    nav.classList.toggle("fixed-top", window.scrollY > 161);
   } else {
     nav.classList.toggle("fixed-top", window.scrollY > 471);
   }
